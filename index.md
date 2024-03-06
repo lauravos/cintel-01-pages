@@ -9,6 +9,7 @@ Here's a clickable link: [My Github Profile](https://github.com/lauravos)
 ## Images
 
 Images look like links except with an exclamation directly in front
+This picture reminded me of one of my cats
 
 ![Cat Picture](https://cdn.pixabay.com/photo/2018/11/05/17/34/cat-3796529_640.jpg)
 
