@@ -1,6 +1,6 @@
 # Laura's Website
 
-My first website using Markdown and GitHub Pages.
+My first website using Markdown and GitHub Pages. 
 
 ## Links
 
