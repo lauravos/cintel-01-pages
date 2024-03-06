@@ -4,7 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Links
 
-Here's a clickable link: [My Github Profile][(https://github.com/lauravos)
+Here's a clickable link: [My Github Profile][(https://github.com/lauravos)]
 
 ## Images
 
